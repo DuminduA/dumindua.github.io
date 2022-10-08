@@ -24,8 +24,8 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Dumindu Akalanka
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : Dumindu Akalanka
+  image             : ./resources/20220810_180654.jpg
+#  behance           : Dumindu Akalanka
 # dribbble          : your_username
   email             : duminduakalanka@gmail.com
 #  facebook          : your_username
